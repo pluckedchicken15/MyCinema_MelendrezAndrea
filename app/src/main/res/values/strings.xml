@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyCinema</string>
+    <string name="email">Correo Electronico</string>
+    <string name="password">Contraseña</string>
+    <string name="sign_in">Entrar</string>
+
+    <string name="descripcion">Rapunzel es una joven princesa que posee una cabellera dorada y mágica de 21 metros capaz de curar y rejuvenecer a quien la escuche cantar. Secuestrada al nacer por la malvada Madre Gothel, crece encerrada en una torre oculta bajo la mentira de que el mundo exterior es extremadamente peligroso. Su vida da un giro radical cuando Flynn Rider, un astuto y buscado ladrón, escala la torre para esconderse con la corona real robada. Rapunzel lo captura y pacta con él. </string>
+
+</resources>
